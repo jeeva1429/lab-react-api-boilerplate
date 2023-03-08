@@ -1,0 +1,21 @@
+#main {
+    margin:24px;
+}
+#image-description{
+    display: flex;
+    padding: 16px;
+    align-items: center;
+    gap: 24px;
+
+}
+img {
+    height: 130px;
+    width: 130px;
+}
+h1,p {
+    text-align: left;
+}
+#title {
+    font-weight: 600;
+    font-size: 28px;
+}
